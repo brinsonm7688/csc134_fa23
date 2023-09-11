@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694445568 source:c:\users\brinsonm7688\documents\github\csc134_fa23\m2t2_brinson\m2t2_brinson\main.cpp
+	<iostream>
+	<iomanip>
+
